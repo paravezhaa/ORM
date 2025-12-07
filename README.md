@@ -76,7 +76,8 @@ class ProductAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
-<img width="1918" height="974" alt="Screenshot 2025-12-03 170334" src="https://github.com/user-attachments/assets/ed3ba562-adfc-4e79-b6a9-76a03007e550" />
+<img width="1918" height="974" alt="EX 01" src="https://github.com/user-attachments/assets/dd506190-9b71-427f-bdf8-733871f699fa" />
+
 
 
 
